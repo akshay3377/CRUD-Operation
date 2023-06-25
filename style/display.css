@@ -1,0 +1,10 @@
+.sortButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnStyle{
+    margin: 15px;
+    font-weight: bolder;
+}
